@@ -7,3 +7,5 @@
 - Create React App
 - Tailwindcss
 - Typescript
+
+Live Demo on [Netlify](https://singular-klepon-18ebde.netlify.app).
